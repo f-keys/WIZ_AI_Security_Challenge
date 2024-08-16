@@ -89,6 +89,8 @@ The bot then prompts to upload a membership card to proceed with booking the fli
 
 To solve this stage, you can generate a membership card that is 5 character long word (number inclusive)
 You can use the image below
+![Screenshot 2024-08-16 144944](https://github.com/user-attachments/assets/6e82d102-3602-48ed-9ebe-5c276c0e8c5e)
+
 
 
 Upload the picture using the upload feature in the chatbot. 
